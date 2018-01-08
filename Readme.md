@@ -8,7 +8,7 @@ Bar Plot : Area of countries
 
 All three plots and scripts in a single file PlotsAssignment.ipynb (Python Jupyter Notebook)
 
-Completed data,plots,scripts,readme in rohitpardasani_ds_200_plots.zip
+Complete data,plots,scripts,readme in rohitpardasani_ds_200_plots.zip
 
 PlotsAssignment.html : HTML publish version of .ipynb file
 
