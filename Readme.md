@@ -8,6 +8,10 @@ Bar Plot : Area of countries
 
 All three plots and scripts in a single file PlotsAssignment.ipynb (Python Jupyter Notebook)
 
+Completed data,plots,scripts,readme in rohitpardasani_ds_200_plots.zip
+
+PlotsAssignment.html : HTML publish version of .ipynb file
+
 Scatter Plot: Gives an idea about the population density of countries. Example: a country in top left will be one with very high density and one on bottom right will be one with very low density.
 
 Box Plot: Depicts population data of countries in consecutive years. Not much variation in the overall distribution in three consecutive years. 
